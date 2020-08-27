@@ -29,6 +29,7 @@ def game_hash(){
           :blocks => 8,
           :slam_dunks => 9
         }
+        }
         ]
     }
   }
