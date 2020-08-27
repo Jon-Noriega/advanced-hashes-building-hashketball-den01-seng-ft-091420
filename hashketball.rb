@@ -28,7 +28,7 @@ def game_hash(){
           :blocks => 12,
           :slam_dunks => 7
           },
-          "Brook Lopez" => {
+          
           :player_name => "Brook Lopez",
           :number => 11,
           :shoe => 17,
