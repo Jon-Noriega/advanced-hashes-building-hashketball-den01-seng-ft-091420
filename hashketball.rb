@@ -37,10 +37,10 @@ def game_hash(){
           :slam_dunks => 15
           },
           "Mason Plumlee" => {
-          :number => 22,
-          :shoe => 33,
-          :points => 44,
-          :rebounds => 55,
+          :number => 1,
+          :shoe => 19,
+          :points => 26,
+          :rebounds => 11,
           :assists => 66,
           :steals => 77,
           :blocks => 88,
