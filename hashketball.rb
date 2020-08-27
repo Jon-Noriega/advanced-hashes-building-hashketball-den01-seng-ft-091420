@@ -11,7 +11,7 @@ def game_hash(){
           :shoe => 16,
           :points => 22,
           :rebounds => 12,
-          :assists => 6,
+          :assists => 12,
           :steals => 7,
           :blocks => 8,
           :slam_dunks => 9
