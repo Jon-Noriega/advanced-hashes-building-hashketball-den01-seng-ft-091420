@@ -7,7 +7,15 @@ def game_hash(){
       :colors => ["Black","White"],
       :players => [
         {
-          
+          :player_name => 1,
+          :number => 2,
+          :shoe => 3,
+          :points => 4,
+          :rebounds => 5,
+          :assists => 6,
+          :steals => 7,
+          :blocks => 8,
+          :slam_dunks => 9
         }]
     }
   }
