@@ -7,8 +7,8 @@ def game_hash(){
       :colors => ["Black","White"],
       :players => {
           "Alan Anderson" => {
-          :number => 2,
-          :shoe => 3,
+          :number => 0,
+          :shoe => 16,
           :points => 4,
           :rebounds => 5,
           :assists => 6,
