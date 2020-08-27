@@ -20,10 +20,10 @@ def game_hash(){
           :number => 30,
           :shoe => 14,
           :points => 12,
-          :rebounds => 55,
-          :assists => 66,
-          :steals => 77,
-          :blocks => 88,
+          :rebounds => 12,
+          :assists => 12,
+          :steals => 12,
+          :blocks => 12,
           :slam_dunks => 99
           },
           "Brook Lopez" => {
