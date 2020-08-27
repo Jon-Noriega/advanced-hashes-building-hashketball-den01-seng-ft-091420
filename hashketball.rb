@@ -9,7 +9,7 @@ def game_hash(){
           "Alan Anderson" => {
           :number => 0,
           :shoe => 16,
-          :points => 4,
+          :points => 22,
           :rebounds => 5,
           :assists => 6,
           :steals => 7,
