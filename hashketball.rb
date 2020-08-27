@@ -6,7 +6,7 @@ def game_hash(){
       :team_name => "Brooklyn Nets",
       :colors => ["Black","White"],
       :players => [
-        {
+        
           "Alan Anderson" => {
           :player_name => 1,
           :number => 2,
@@ -18,7 +18,7 @@ def game_hash(){
           :blocks => 8,
           :slam_dunks => 9
         },
-        {"Reggie Evans" => {
+        "Reggie Evans" => {
           :player_name => 1,
           :number => 2,
           :shoe => 3,
