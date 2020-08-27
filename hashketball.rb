@@ -13,8 +13,8 @@ def game_hash(){
           :rebounds => 12,
           :assists => 12,
           :steals => 3,
-          :blocks => ,
-          :slam_dunks => 9
+          :blocks => 1,
+          :slam_dunks => 1
           },
         "Reggie Evans" => {
           :number => 22,
