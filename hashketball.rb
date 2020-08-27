@@ -51,10 +51,10 @@ def game_hash(){
           :shoe => 15,
           :points => 19,
           :rebounds => 2,
-          :assists => 66,
-          :steals => 77,
-          :blocks => 88,
-          :slam_dunks => 99
+          :assists => 2,
+          :steals => 4,
+          :blocks => 11,
+          :slam_dunks => 1
           }
       }
     }
