@@ -25,6 +25,36 @@ def game_hash(){
           :steals => 77,
           :blocks => 88,
           :slam_dunks => 99
+          },
+          "Reggie Evans" => {
+          :number => 22,
+          :shoe => 33,
+          :points => 44,
+          :rebounds => 55,
+          :assists => 66,
+          :steals => 77,
+          :blocks => 88,
+          :slam_dunks => 99
+          },
+          "Reggie Evans" => {
+          :number => 22,
+          :shoe => 33,
+          :points => 44,
+          :rebounds => 55,
+          :assists => 66,
+          :steals => 77,
+          :blocks => 88,
+          :slam_dunks => 99
+          },
+          "Reggie Evans" => {
+          :number => 22,
+          :shoe => 33,
+          :points => 44,
+          :rebounds => 55,
+          :assists => 66,
+          :steals => 77,
+          :blocks => 88,
+          :slam_dunks => 99
           }
       }
     }
