@@ -51,6 +51,7 @@ def game_hash(){
           :slam_dunks => 5
           },
           "Jason Terry" => {
+          :player_name => "Jason Terry",
           :number => 31,
           :shoe => 15,
           :points => 19,
