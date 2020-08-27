@@ -5,7 +5,7 @@ def game_hash(){
     :home => {
       :team_name => "Brooklyn Nets",
       :colors => ["Black","White"],
-      :players => {
+      :players => [{
           "Alan Anderson" => {
           :number => 2,
           :shoe => 3,
@@ -26,7 +26,7 @@ def game_hash(){
           :blocks => 88,
           :slam_dunks => 99
           }
-      }
+      }]
     }
   }
 end
