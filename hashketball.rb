@@ -36,7 +36,7 @@ def game_hash(){
           :blocks => 88,
           :slam_dunks => 99
           },
-          "Reggie Evans" => {
+          "Mason Plumlee" => {
           :number => 22,
           :shoe => 33,
           :points => 44,
@@ -46,7 +46,7 @@ def game_hash(){
           :blocks => 88,
           :slam_dunks => 99
           },
-          "Reggie Evans" => {
+          "Jason Terry" => {
           :number => 22,
           :shoe => 33,
           :points => 44,
