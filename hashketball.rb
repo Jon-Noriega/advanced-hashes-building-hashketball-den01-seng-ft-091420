@@ -47,10 +47,10 @@ def game_hash(){
           :slam_dunks => 5
           },
           "Jason Terry" => {
-          :number => 22,
-          :shoe => 33,
-          :points => 44,
-          :rebounds => 55,
+          :number => 31,
+          :shoe => 15,
+          :points => 19,
+          :rebounds => 2,
           :assists => 66,
           :steals => 77,
           :blocks => 88,
