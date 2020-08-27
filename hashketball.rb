@@ -7,7 +7,6 @@ def game_hash(){
       :colors => ["Black","White"],
       :players => {
           "Alan Anderson" => {
-          :player_name => 1,
           :number => 2,
           :shoe => 3,
           :points => 4,
@@ -18,7 +17,6 @@ def game_hash(){
           :slam_dunks => 9
           },
         "Reggie Evans" => {
-          :player_name => 11,
           :number => 22,
           :shoe => 33,
           :points => 44,
