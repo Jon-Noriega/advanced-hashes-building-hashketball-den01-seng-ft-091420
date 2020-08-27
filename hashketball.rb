@@ -17,7 +17,7 @@ def game_hash(){
           :steals => 7,
           :blocks => 8,
           :slam_dunks => 9
-        },
+          },
         "Reggie Evans" => {
           :player_name => 1,
           :number => 2,
@@ -28,7 +28,7 @@ def game_hash(){
           :steals => 7,
           :blocks => 8,
           :slam_dunks => 9
-        }
+          }
         }
         ]
     }
