@@ -27,9 +27,9 @@ def game_hash(){
           :slam_dunks => 7
           },
           "Brook Lopez" => {
-          :number => 22,
-          :shoe => 33,
-          :points => 44,
+          :number => 11,
+          :shoe => 17,
+          :points => 17,
           :rebounds => 55,
           :assists => 66,
           :steals => 77,
